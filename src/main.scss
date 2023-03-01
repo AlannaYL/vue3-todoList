@@ -120,6 +120,7 @@ li {
     .inputdate {
       width: 100%;
       display: flex;
+      margin-top: .7rem;
       input {
         flex: 1;
         width: 50%;
@@ -151,7 +152,7 @@ li {
 }
 
 .date {
-  margin: .7rem !important;
+  margin: .1rem !important;
 }
 
 .choice {
